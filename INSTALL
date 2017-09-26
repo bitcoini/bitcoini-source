@@ -1,0 +1,9 @@
+Building BitcoinI
+
+See doc/readme-qt.rst for instructions on building BitcoinI QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BitcoinI.
+
+See doc/build-*.txt for instructions on building bitcoinid,
+the intended-for-services, no-graphical-interface, reference
+implementation of BitcoinI.
